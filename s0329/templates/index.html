@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/search" method="get">
+    关键字：<input type="text" name="kw"><br>
+    搜索最大数量：<input type="text" value="50" name="count"><br>
+    <input type="submit" value="查询">
+</form>
+
+{% for i in images %}
+{% endfor %}
+</body>
+</html>

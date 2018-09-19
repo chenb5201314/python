@@ -1,0 +1,4 @@
+姓名,工号,部门,签到时间
+cc,100,python,time.struct_time(tm_year=2018, tm_mon=3, tm_mday=6, tm_hour=23, tm_min=24, tm_sec=14, tm_wday=1, tm_yday=65, tm_isdst=0)
+姓名,工号,部门,签到时间
+bb,103,python,Tue Mar  6 23:31:24 2018
